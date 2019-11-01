@@ -1,0 +1,24 @@
+body{
+background-image : url("../images/03.jpg") ;
+}
+
+h1{
+    background-color:gainsboro;
+    text-align:center;
+    color:orange;
+}
+
+h2{
+    background-color:orchid;
+    text-align:center;
+    color:black;
+}
+
+h3{
+    color:darkorange;
+}
+
+p{
+    font-size:25px;
+    font-weight:bold;
+}
