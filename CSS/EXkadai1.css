@@ -1,0 +1,19 @@
+body{
+background-image : url("../images/04.jpg") ;
+}
+
+h1{
+    background-color:gainsboro;
+    text-align:center;
+    color:darkmagenta;
+}
+
+h2{
+    background-color:cyan;
+    text-align:center;
+    color:fuchsia;
+}
+
+ol{
+    background-image : url("../images/06.jpg") ;
+}
