@@ -1,0 +1,37 @@
+body{
+background-image : url("../images/03.jpg") ;
+}
+
+h1#a{
+    color : darkorange;
+    text-align:center;
+     background-color:cyan;
+}
+
+
+
+h2#b{
+    color : darkcyan;
+    text-align:center;
+     background-color:darkgreen;
+}
+
+h2#d{
+    color : magenta;
+    text-align:center;
+     background-color:lightgray;
+}
+
+p#c{
+color : blue;
+}
+
+p#f{
+color : blue;
+}
+
+h1#e{
+    color : aqua;
+    text-align:center;
+     background-color:lavender;
+}
