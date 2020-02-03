@@ -1,0 +1,40 @@
+div.title{
+    width: 1000px;
+    height: 40px;
+    background-color: gold;
+    font-size: 35px;
+    font-family: "Impact";
+}
+
+div.main{
+   margin-top: 20px;
+    background-color: red;
+   font-size: 20px;
+    width: 1000;
+    height: 400px
+}
+
+div.menu1{
+    margin-left: 90px;
+    margin-top: 200px;
+    display: inline-block;
+    width: 300px;
+    background-color: aqua;
+    font-size: 15px;
+}
+
+div.menu2{
+    margin-left: 200px;
+    display: inline-block;
+    width: 300px;
+    background-color: aqua;
+    font-size: 15px;
+}
+
+div.footer{
+    margin-top: 50px;
+    width: 250;
+    height: 50px;
+    background-color: fuchsia;
+    font-size: 15px;
+}

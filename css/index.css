@@ -1,0 +1,32 @@
+div.title{
+    width: 1000px;
+    height: 50px;
+    background-color: gold;
+    font-size: 45px;
+    font-family: "Impact";
+}
+
+div.menu1{
+    
+    font-size: 30px;
+}
+
+div.menu2{
+   
+    
+    font-size: 30px;
+}
+
+div.menu3{
+    
+    
+    font-size: 30px;
+
+}
+
+div.footer{
+    
+    font-size: 30px;
+    width:1000px;
+    background-color: deeppink;
+}
